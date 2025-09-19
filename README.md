@@ -1,4 +1,4 @@
-<img width="677" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e02c254-6829-4184-b6be-329eb8d65e9a" /># Smart-Traffic-Insights
+
 AI-powered traffic insights for Tech-o-Tsav 2025
 1. ENVIRONMENTAL SETUP-
 
