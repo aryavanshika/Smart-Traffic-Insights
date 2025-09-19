@@ -1,4 +1,4 @@
-# Smart-Traffic-Insights
+<img width="677" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e02c254-6829-4184-b6be-329eb8d65e9a" /># Smart-Traffic-Insights
 AI-powered traffic insights for Tech-o-Tsav 2025
 1. ENVIRONMENTAL SETUP-
 # (optional) create virtualenv
@@ -278,6 +278,8 @@ NYC Taxi Trip Duration (train.csv). ~55k rows. Key features: pickup_datetime, pa
 - Jupyter Notebook, flowchart, report, demo video, GitHub repo link.
 
 FLOWCHART--
+
+
 Dataset
 
 → Data Cleaning
