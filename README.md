@@ -1,16 +1,6 @@
 <img width="677" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e02c254-6829-4184-b6be-329eb8d65e9a" /># Smart-Traffic-Insights
 AI-powered traffic insights for Tech-o-Tsav 2025
 1. ENVIRONMENTAL SETUP-
-# (optional) create virtualenv
-python -m venv venv
-# activate:
-# Windows:
-venv\Scripts\activate
-# macOS / Linux:
-source venv/bin/activate
-
-# install packages
-pip install pandas numpy matplotlib seaborn scikit-learn joblib jupyter
 
 CREATE requirements.txt
 pandas
@@ -237,16 +227,6 @@ Predict trip duration using NYC Taxi dataset to help route optimization and deli
 
    CONTACT:
    Team members: A, B, C
-
-
-Replace `<your-username>` and team details.
-
----
-
-# 📝 5) `report.md` (documentation) — paste & convert to PDF
-Use the earlier documentation template; here is a compact version to paste into `report.md`:
-
-```markdown
 # Smart Traffic Insights for Indian Cities
 **Team:** [AIgnition]  
 **Event:** Tech-o-Tsav 2025 – AI-Fusion
